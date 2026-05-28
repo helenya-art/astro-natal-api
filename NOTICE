@@ -1,0 +1,20 @@
+NOTICE — Third-party components used in this software
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Swiss Ephemeris
+  Copyright © 1997–2025 Astrodienst AG, Switzerland
+  Licensed under the GNU Affero General Public License v3.0
+  https://www.astro.com/swisseph/
+  Used via: immanuel==1.5.3 → pyswisseph==2.10.3.2
+
+immanuel
+  Copyright © 2023 Patrick Schiess
+  Licensed under the GNU Affero General Public License v3.0
+  https://github.com/theriftlab/immanuel-python
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This software uses Swiss Ephemeris for astronomical calculations.
+Swiss Ephemeris is a precision ephemeris developed by Astrodienst AG.
+This project is not endorsed by or affiliated with Astrodienst AG.

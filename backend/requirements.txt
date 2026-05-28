@@ -1,0 +1,15 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.7.0
+# immanuel requires pyswisseph (C extension) — compiles in Docker/Linux.
+# On Windows: install VS C++ Build Tools or use docker-compose up
+immanuel==1.5.3
+openai>=2.0.0
+firebase-admin==6.5.0
+supabase==2.10.0
+python-multipart==0.0.19
+aiohttp==3.11.10
+slowapi==0.1.9
+redis==5.2.1
+tzdata==2024.2
